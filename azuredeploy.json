@@ -38,7 +38,7 @@
       },
       "webAppName": {
         "type": "string",
-        "defaultValue": "myMvcApplabUser2037",
+        "defaultValue": "myMvcApplabUser2037R",
         "metadata": {
           "description": "Name of the Web App."
         }
